@@ -1,6 +1,5 @@
-# threejs-simple-boilerplate
 
-Simple threejs parcel boilerplate for scenes.
+AsciiEffect demo -> https://ascii-effect-parcel.vercel.app/
 
 
 ## Setup
