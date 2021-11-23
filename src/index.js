@@ -6,11 +6,6 @@ import { AsciiEffect } from 'three/examples/jsm/effects/AsciiEffect.js'
 import boilerVertexShader from './shaders/vertex.glsl'
 import boilerFragmentShader from './shaders/fragment.glsl'
 
-/**
- * Base
- */
-// Canvas
-
 
 // Scene
 const scene = new THREE.Scene()
